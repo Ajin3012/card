@@ -1,0 +1,41 @@
+*{
+	margin:0 auto;
+	padding:0;
+	box-sizing:border-box;
+}
+.card{
+	border:1px solid #f1f1f1;
+	border-radius:15px;
+	width:30%;
+	height:38vh;
+	margin-top:50px;
+	position:relative;
+	background-color:#f1f1f1;
+	box-shadow:0 0 10px #00000092;
+}
+.text{
+	text-align:center;
+}
+.text i{
+	color:orange;
+	font-size:30px;
+	border:1px solid #f1f1f1;
+	padding:10px;
+	border-radius:50%;
+	background-color:#f1f1f1;
+	position:absolute;
+	top: -15%;
+    right: 42%;
+	box-shadow:0 0 10px #00000092;
+}
+	
+.heading{
+	font-family: 'Abel', sans-serif;
+	padding-top:60px;
+}
+.para{
+	font-family: 'Wire One', sans-serif;
+	font-size:30px;
+	padding-top:20px;
+	
+}	
